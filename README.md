@@ -8,7 +8,7 @@ The PCB design files are in the 'PCB Files' subdirectory. They were designed in 
 The final report, written between me and another student, Josh Baynes, is listed as 'Stepper and Control Report Jesse Taylor Josh Baynes'
 
 In summary, we were asked to design a full mechatronic system for a 1-D stepper motor linear actuator, and write microcontroller and PC support software.
-The code ended up pretty basic, and the microcontroller code was pretty dependent on third party libraries, linked below.
+The microcontroller code is dependent on third party libraries, linked below.
 
 TMC2130Stepper Library:
 [[https://github.com/teemuatlut/TMC2130Stepper](https://github.com/teemuatlut/TMC2130Stepper)]
